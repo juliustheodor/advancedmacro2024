@@ -258,5 +258,5 @@ std_i = std(i_cyc) / std(y_cyc);
 disp(['Standard deviation of output: ' num2str(std(y_cyc))]) 
 disp(['Standard deviation of investment: ' num2str(std(i_cyc))]) 
 disp(['Standard deviation of consumption: ' num2str(std(c_cyc))]) 
-disp(['Standard deviation of consumption relative to utput: ' num2str(std_c)]) 
-disp(['Standard deviation of investment relative to utput: ' num2str(std_i)]) 
+disp(['Standard deviation of consumption relative to output: ' num2str(std_c)]) 
+disp(['Standard deviation of investment relative to output: ' num2str(std_i)]) 
